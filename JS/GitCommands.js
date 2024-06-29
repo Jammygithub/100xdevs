@@ -31,3 +31,5 @@ console.log("Git Commands");
 
 //MOVES ALL STAGED FILES TO LOCAL REPO
 //git commit -m 'first commit'
+
+//git stash clear
