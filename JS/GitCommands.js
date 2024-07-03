@@ -33,5 +33,3 @@ console.log("Git Commands");
 //git commit -m 'first commit'
 
 //git stash clear
-
-//git revert <commit>
